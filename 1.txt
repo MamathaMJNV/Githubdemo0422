@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hi this ia mamatha. !st commit file.
+=======
+Hi this is my first file.
+
+
+>>>>>>> ee3affe (my first commit)
