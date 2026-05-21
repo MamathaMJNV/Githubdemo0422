@@ -7,3 +7,6 @@ Hi this is my first file.
 >>>>>>> ee3affe (my first commit)
 
 uploading new line of code to repo
+
+
+additin new line to check branch demo
